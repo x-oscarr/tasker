@@ -26,6 +26,7 @@
 
 <style scoped>
     .todo {
+        font-family: 'Barlow', sans-serif;
         display: block;
         position: relative;
         padding: 1em 1em 1em 16%;
